@@ -1,4 +1,4 @@
-
+ultimate MATLAB for macOS Addon | interactive-dashboards + symbolic-computation offers the most advanced MATLAB for macOS addon, with interactive-dashboards and
 
 
 
